@@ -1,6 +1,6 @@
 {
   "OGN-001": {
-    "id": "OGN-002",
+    "id": "OGN-001",
     "isToken": false,
     "face": {
       "front": {
@@ -22,7 +22,7 @@
     ]
   },
   "OGN-002": {
-    "id": "OGN-001",
+    "id": "OGN-002",
     "isToken": false,
     "face": {
       "front": {
@@ -15667,13 +15667,13 @@
         "name": "Ashe, Focused ",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.imgchest.com/files/46e22ba2573d.png",
+        "image": "https://github.com/dabun123/Riftbound_Test/blob/30239dce73c60d9c797268934f9d2abbc58b0f4f/001.jpg",
         "isHorizontal": false
       }
     },
     "name": "Ashe, Focused",
     "type": false,
-    "cost": 0,
+    "cost": 5,
     "Domain": [
       "Order"
     ],
