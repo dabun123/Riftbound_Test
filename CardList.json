@@ -1,6 +1,6 @@
 {
   "OGN-001": {
-    "id": "OGN-001",
+    "id": "OGN-002",
     "isToken": false,
     "face": {
       "front": {
@@ -22,7 +22,7 @@
     ]
   },
   "OGN-002": {
-    "id": "OGN-002",
+    "id": "OGN-001",
     "isToken": false,
     "face": {
       "front": {
