@@ -52,7 +52,6 @@
     ],
     "deckRulesets": {
             "Standard": {
-                "reversedLegality": true,
                 "general": {
                     "min": 56,
                     "max": 56,
