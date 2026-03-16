@@ -15667,7 +15667,7 @@
         "name": "Ashe, Focused ",
         "type": "Unit",
         "cost": "5",
-        "image": "001.jpg",
+        "image": "https://raw.githubusercontent.com/dabun123/Riftbound---Test/main/001.jpg",
         "isHorizontal": false
       }
     },
